@@ -1,82 +1,50 @@
+<h1 align="center">🎓 EduTrack – Learning Courses Dashboard</h1>
 
-# 🎓 EduTrack – Learning Courses Dashboard
+<p align="center">
+  <a href="https://transcendent-centaur-6f5f65.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"></a>
+  <a href="https://github.com/PRITAMALWAR/EduTrack"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github"></a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://transcendent-centaur-6f5f65.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/PRITAMALWAR/EduTrack)
-
-EduTrack is a **modern Learning Courses Dashboard** built with **React.js + Tailwind CSS**.  
-It enables instructors to **manage courses** and students to **enroll & track progress** 📚.  
-Packed with **authentication, CRUD, pagination, sorting, filtering, and dashboards** – it’s a complete mini LMS (Learning Management System).  
-
----
-
-## ✨ Features
-
-✅ **Authentication** – Signup/Login flow with secure session  
-✅ **CRUD Operations** –  
-&nbsp;&nbsp;&nbsp;👩‍🏫 Instructors → Add / Update / Delete Courses  
-&nbsp;&nbsp;&nbsp;👨‍🎓 Students → Enroll in Courses  
-✅ **Pagination** – Display 6–8 courses per page  
-✅ **Sorting** – Sort by difficulty, rating, or price  
-✅ **Filtering** – Filter by category (Web Dev, AI, Data Science, etc.)  
-✅ **Dashboard** – Progress tracking with dummy percentages  
-✅ **Responsive UI** – Works smoothly on desktop & mobile  
-✅ **Modern UI/UX** – Built with Tailwind + Framer Motion  
+<p align="center">
+  <b>A modern course management system built with React.js + Tailwind CSS 💻</b><br/>
+  Instructors can manage courses & students can enroll and track their learning progress 📚
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Why EduTrack?
 
-- **Frontend:** React.js, Tailwind CSS  
-- **Animations:** Framer Motion  
-- **State Management:** React Context API  
-- **Auth:** JWT (JSON Web Token) *(future-ready for backend)*  
-- **Backend Ready:** Node.js + Express + MongoDB *(for real data)*  
+🔐 **Secure Auth** – Signup/Login for both Students & Instructors  
+📝 **CRUD Features** – Manage courses with add, edit, delete  
+📄 **Pagination** – 6–8 courses per page for smoother browsing  
+📊 **Sorting** – By difficulty, rating, or price  
+🏷 **Filtering** – By categories like Web Dev, AI, Data Science  
+📈 **Dashboard** – Track learning progress (dummy %)  
+📱 **Responsive Design** – Mobile-first, modern UI/UX  
+⚡ **Built With** – React, Tailwind, Framer Motion  
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Tech Stack
 
-1. **Clone Repo**
-   ```bash
-   git clone https://github.com/PRITAMALWAR/EduTrack.git
-   cd EduTrack
-````
-
-2. **Install Packages**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run Dev Server**
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser 🎉
+| Frontend | Styling | State | Animations | Backend Ready |
+|----------|---------|-------|------------|---------------|
+| React.js | Tailwind CSS | Context API | Framer Motion | Node.js + Express + MongoDB |
 
 ---
 
 ## 🌍 Live Demo
 
-🔗 **Try it here:** [EduTrack Live](https://transcendent-centaur-6f5f65.netlify.app/)
-
-
-## 📌 Resume Highlight
-
-> **“Developed EduTrack, a React.js + Tailwind course management system with authentication, CRUD features, pagination, sorting, filtering, and a progress tracking dashboard.”**
+👉 **Check it here:** [EduTrack Live](https://transcendent-centaur-6f5f65.netlify.app/)  
 
 ---
 
-## 🤝 Contributing
+## 📸 Preview
 
-Contributions, issues, and feature requests are welcome!
-Feel free to **fork this repo** and open a PR.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=EduTrack+Dashboard" alt="EduTrack Dashboard" />
+</p>
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
+# Run dev server
+npm run dev
